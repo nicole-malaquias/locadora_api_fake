@@ -1,0 +1,14 @@
+{
+  "name": "backend-fake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.1.0"
+  },
+  "devDependencies": {
+    "styled-components": "^5.2.0"
+  }
+}
